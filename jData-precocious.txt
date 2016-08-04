@@ -1,0 +1,724 @@
+{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "status": "OK",
+    "response": {
+        "meta": {
+            "offset": 0,
+            "time": 36,
+            "hits": 308
+        },
+        "docs": [
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/aponline/2015/04/28/arts/ap-us-music-review-jon-regen-.html",
+                "_id": "553fa2a538f0d8592c70c445",
+                "section_name": "Arts",
+                "lead_paragraph": "Jon Regen, \"Stop Time\" (Motema)",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "abstract": null,
+                "pub_date": "2015-04-28T11:05:49Z",
+                "multimedia": [],
+                "news_desk": "None",
+                "snippet": "Jon Regen, \"Stop Time\" (Motema)",
+                "document_type": "article",
+                "word_count": "149",
+                "type_of_material": "News",
+                "source": "AP",
+                "headline": {
+                    "main": "Music Review: Precocious Lopez Feels the Tug of the Road",
+                    "print_headline": "Music Review: Precocious Lopez Feels the Tug of the Road"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/reuters/2015/01/21/sports/soccer/21reuters-soccer-spain-real-odegaard.html",
+                "_id": "54c0337438f0d877eaa5b198",
+                "section_name": "Sports",
+                "lead_paragraph": "Real Madrid have agreed to sign teenage Norway midfielder Martin Odegaard from Stromsgodset pending a medical, the La Liga club said on Wednesday.",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": "Soccer",
+                "slideshow_credits": null,
+                "byline": {
+                    "organization": "REUTERS",
+                    "original": "By REUTERS",
+                    "person": []
+                },
+                "abstract": null,
+                "pub_date": "2015-01-21T18:14:33Z",
+                "multimedia": [],
+                "news_desk": "None",
+                "snippet": "Real Madrid have agreed to sign teenage Norway midfielder Martin Odegaard from Stromsgodset pending a medical, the La Liga club said on Wednesday.",
+                "document_type": "article",
+                "word_count": "163",
+                "type_of_material": "News",
+                "source": "Reuters",
+                "headline": {
+                    "main": "Real Snap Up Precocious Norway Teenager Odegaard",
+                    "print_headline": "Real Snap Up Precocious Norway Teenager Odegaard"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/2015/12/09/sports/soccer/dele-alli-quickly-makes-his-presence-felt-at-tottenham.html",
+                "_id": "5666b3c838f0d84cb15f72cc",
+                "section_name": "Sports",
+                "lead_paragraph": "Alli, 19, made a strong showing during his first start with the English national team, and he has only gotten better while playing midfield for his club.",
+                "blog": [],
+                "keywords": [
+                    {
+                        "value": "Soccer",
+                        "rank": "1",
+                        "is_major": "N",
+                        "name": "subject"
+                    },
+                    {
+                        "value": "English Premier League",
+                        "rank": "2",
+                        "is_major": "N",
+                        "name": "organizations"
+                    },
+                    {
+                        "value": "England",
+                        "rank": "3",
+                        "is_major": "N",
+                        "name": "glocations"
+                    },
+                    {
+                        "value": "Tottenham Hotspur (Soccer Team)",
+                        "rank": "4",
+                        "is_major": "N",
+                        "name": "organizations"
+                    },
+                    {
+                        "value": "Alli, Dele (1996- )",
+                        "rank": "5",
+                        "is_major": "N",
+                        "name": "persons"
+                    }
+                ],
+                "subsection_name": "Soccer",
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "By ROB HUGHES",
+                    "person": [
+                        {
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Rob",
+                            "organization": "",
+                            "lastname": "HUGHES"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-12-09T11:30:00Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2015/12/08/sports/08hughes/08hughes-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2015/12/08/sports/08hughes/08hughes-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2015/12/08/sports/08hughes/08hughes-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2015/12/08/sports/08hughes/08hughes-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "416"
+                        },
+                        "subtype": "xlarge",
+                        "height": 416
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2015/12/08/sports/08hughes/08hughes-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2015/12/08/sports/08hughes/08hughes-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Sports",
+                "snippet": "Alli, 19, made a strong showing during his first start with the English national team, and he has only gotten better while playing midfield for his club.",
+                "document_type": "article",
+                "word_count": "917",
+                "type_of_material": "News",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "Dele Alli Quickly Makes His Presence Felt at Tottenham",
+                    "print_headline": "Dele Alli, Youthful Audacity and Precocious Skill",
+                    "content_kicker": "Global Soccer"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/2015/01/15/sports/autoracing/rashid-al-dhaheri-a-precocious-driver-at-6-builds-a-following-in-the-united-arab-emirates.html",
+                "_id": "54b71b5538f0d8598e1e891f",
+                "section_name": "Sports",
+                "lead_paragraph": "Rashid al-Dhaheri, who became enamored of motorsports after attending a Formula One race with his father, has been winning youth go-kart races and building a following in the United Arab Emirates.",
+                "blog": [],
+                "keywords": [
+                    {
+                        "value": "Automobile Racing",
+                        "rank": "1",
+                        "is_major": "Y",
+                        "name": "subject"
+                    },
+                    {
+                        "value": "Dhaheri, Rashid al- (2008- )",
+                        "rank": "2",
+                        "is_major": "Y",
+                        "name": "persons"
+                    },
+                    {
+                        "value": "United Arab Emirates",
+                        "rank": "3",
+                        "is_major": "Y",
+                        "name": "glocations"
+                    },
+                    {
+                        "value": "Go-Karts (Automobiles)",
+                        "rank": "4",
+                        "is_major": "N",
+                        "name": "subject"
+                    },
+                    {
+                        "value": "Formula One",
+                        "rank": "5",
+                        "is_major": "N",
+                        "name": "organizations"
+                    },
+                    {
+                        "value": "Abu Dhabi (United Arab Emirates)",
+                        "rank": "6",
+                        "is_major": "N",
+                        "name": "glocations"
+                    }
+                ],
+                "subsection_name": "Auto Racing",
+                "slideshow_credits": null,
+                "byline": {
+                    "person": [
+                        {
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Sam",
+                            "organization": "",
+                            "lastname": "BORDEN"
+                        }
+                    ],
+                    "contributor": "",
+                    "original": "By SAM BORDEN"
+                },
+                "abstract": "Rashid al-Dhaheri, 6-year-old who found his calling after attending Formula One race with his father, is seen as future of auto racing in United Arab Emirates; is already a winner with a growing following on go-kart circuit.",
+                "pub_date": "2015-01-15T00:00:00Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2015/01/15/sports/KIDRACER/KIDRACER-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2015/01/15/sports/KIDRACER/KIDRACER-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2015/01/15/sports/KIDRACER/KIDRACER-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2015/01/15/sports/KIDRACER/KIDRACER-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "413"
+                        },
+                        "subtype": "xlarge",
+                        "height": 413
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2015/01/15/sports/KIDRACER/KIDRACER-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2015/01/15/sports/KIDRACER/KIDRACER-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Sports",
+                "snippet": "Rashid al-Dhaheri, who became enamored of motorsports after attending a Formula One race with his father, has been winning youth go-kart races and building a following in the United Arab Emirates.",
+                "document_type": "article",
+                "word_count": "1272",
+                "type_of_material": "News",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "Far Ahead of Curve, a 6-Year-Old Thrills a Nation",
+                    "print_headline": "Far Ahead of Curve, a 6-Year-Old Thrills a Nation",
+                    "seo": "Rashid al-Dhaheri, a Precocious Driver at 6, Builds a Following in the United Arab Emirates"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000003543321/jersey-girl.html",
+                "_id": "54f2f18c38f0d8529ba3559c",
+                "section_name": "Movies",
+                "lead_paragraph": "After his career is sidelined from an unexpected tragedy and a personal blowup, a single man must take care of his precocious daughter.",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "MIRAMAX HOME ENTERTAINMENT",
+                    "person": [
+                        {
+                            "middlename": "Home",
+                            "organization": "",
+                            "lastname": "ENTERTAINMENT",
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Miramax"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-03-01T06:01:08Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "338"
+                        },
+                        "subtype": "xlarge",
+                        "height": 338
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2015/02/27/movies/video-jersey-girl/video-jersey-girl-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "After his career is sidelined from an unexpected tragedy and a personal blowup, a single man must take care of his precocious daughter.",
+                "document_type": "multimedia",
+                "word_count": "23",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "Jersey Girl"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000003599255/no-small-affair-has-it-ever-occurred-to-you.html",
+                "_id": "5516787838f0d84d44f0df73",
+                "section_name": "Movies",
+                "lead_paragraph": "A precocious young teenager with a talent for photography meets a struggling, but older, rock singer and does everything he can to get her to fall for him.",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "Sony Pictures Home Entertainment",
+                    "person": [
+                        {
+                            "middlename": "Pictures",
+                            "organization": "",
+                            "lastname": "Home",
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Sony"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-03-28T05:46:08Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "337"
+                        },
+                        "subtype": "xlarge",
+                        "height": 337
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2015/03/26/movies/video-no-small-affair-has-it-ever-occurred-to-you/video-no-small-affair-has-it-ever-occurred-to-you-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "A precocious young teenager with a talent for photography meets a struggling, but older, rock singer and does everything he can to get her to fall for him.",
+                "document_type": "multimedia",
+                "word_count": "28",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "No Small Affair: Has It Ever Occurred To You"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000003646855/three-men-and-a-little-lady.html",
+                "_id": "553a076938f0d87fad3b3bc6",
+                "section_name": "Movies",
+                "lead_paragraph": "A bachelor races to England to stop the woman he loves from marrying the wrong man with the help of his two best friends and the woman's precocious daughter.",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "Touchstone Pictures",
+                    "person": [
+                        {
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Touchstone",
+                            "organization": "",
+                            "lastname": "Pictures"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-04-24T05:04:27Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "338"
+                        },
+                        "subtype": "xlarge",
+                        "height": 338
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2015/04/22/movies/video-three-men-and-a-little-lady/video-three-men-and-a-little-lady-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "A bachelor races to England to stop the woman he loves from marrying the wrong man with the help of his two best friends and the woman's precocious daughter.",
+                "document_type": "multimedia",
+                "word_count": "29",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "Three Men And A Little Lady"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000003351740/lucas.html",
+                "_id": "54a5148138f0d83a07dc67d6",
+                "section_name": "Movies",
+                "lead_paragraph": "A precocious high school student falls in love with the new girl in town but has to work at winning her. Nice look at the agony and ecstacy of adolescence!",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "Twentieth Century Fox Home Entertainment",
+                    "person": [
+                        {
+                            "middlename": "Century",
+                            "organization": "",
+                            "lastname": "Fox",
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Twentieth"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-01-01T04:33:51Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2014/03/21/movies/video-lucas/video-lucas-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2014/03/21/movies/video-lucas/video-lucas-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2014/03/21/movies/video-lucas/video-lucas-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2014/03/21/movies/video-lucas/video-lucas-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "338"
+                        },
+                        "subtype": "xlarge",
+                        "height": 338
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2014/03/21/movies/video-lucas/video-lucas-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2014/03/21/movies/video-lucas/video-lucas-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "A precocious high school student falls in love with the new girl in town but has to work at winning her. Nice look at the agony and ecstacy of adolescence!",
+                "document_type": "multimedia",
+                "word_count": "30",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "Lucas"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000004385714/night-has-settled.html",
+                "_id": "572b9a6338f0d83ff98d7cd1",
+                "section_name": "Movies",
+                "lead_paragraph": "In 1983, 13-year-old Oliver Nicholas is well-poised to enter the precocious teenage world of first-time sex, alcohol and love in New York City when Aida, the family housekeeper and his only true motherly figure, has a traumatizing stroke. What was s",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "By FILM MOVEMENT",
+                    "person": [
+                        {
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Film",
+                            "organization": "",
+                            "lastname": "MOVEMENT"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2016-05-05T15:08:32Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "338"
+                        },
+                        "subtype": "xlarge",
+                        "height": 338
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2016/05/04/movies/video-night-has-settled/video-night-has-settled-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "In 1983, 13-year-old Oliver Nicholas is well-poised to enter the precocious teenage world of first-time sex, alcohol and love in New York City when Aida, the family housekeeper and his only true motherly figure, has a traumatizing stroke. What was s",
+                "document_type": "multimedia",
+                "word_count": "41",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "Night Has Settled"
+                }
+            },
+            {
+                "print_page": null,
+                "web_url": "http://www.nytimes.com/video/movies/100000003311849/clifford.html",
+                "_id": "54a4f8be38f0d83a07dc6180",
+                "section_name": "Movies",
+                "lead_paragraph": "Charles Grodin wants to convince his fiancee that he loves kids. Not. A surprise visit from his precocious nephew gives him a great opportunity. Not. A serious film about the importance of truth in building relationships. Not.",
+                "blog": [],
+                "keywords": [],
+                "subsection_name": null,
+                "slideshow_credits": null,
+                "byline": {
+                    "original": "Orion Home Video",
+                    "person": [
+                        {
+                            "middlename": "Home",
+                            "organization": "",
+                            "lastname": "Video",
+                            "rank": 1,
+                            "role": "reported",
+                            "firstname": "Orion"
+                        }
+                    ]
+                },
+                "abstract": null,
+                "pub_date": "2015-01-01T02:35:23Z",
+                "multimedia": [
+                    {
+                        "type": "image",
+                        "width": 190,
+                        "url": "images/2014/03/21/movies/video-clifford/video-clifford-thumbWide.jpg",
+                        "legacy": {
+                            "widewidth": "190",
+                            "wide": "images/2014/03/21/movies/video-clifford/video-clifford-thumbWide.jpg",
+                            "wideheight": "126"
+                        },
+                        "subtype": "wide",
+                        "height": 126
+                    },
+                    {
+                        "type": "image",
+                        "width": 600,
+                        "url": "images/2014/03/21/movies/video-clifford/video-clifford-articleLarge.jpg",
+                        "legacy": {
+                            "xlarge": "images/2014/03/21/movies/video-clifford/video-clifford-articleLarge.jpg",
+                            "xlargewidth": "600",
+                            "xlargeheight": "338"
+                        },
+                        "subtype": "xlarge",
+                        "height": 338
+                    },
+                    {
+                        "type": "image",
+                        "width": 75,
+                        "url": "images/2014/03/21/movies/video-clifford/video-clifford-thumbStandard.jpg",
+                        "legacy": {
+                            "thumbnailwidth": "75",
+                            "thumbnailheight": "75",
+                            "thumbnail": "images/2014/03/21/movies/video-clifford/video-clifford-thumbStandard.jpg"
+                        },
+                        "subtype": "thumbnail",
+                        "height": 75
+                    }
+                ],
+                "news_desk": "Movies",
+                "snippet": "Charles Grodin wants to convince his fiancee that he loves kids. Not. A surprise visit from his precocious nephew gives him a great opportunity. Not. A serious film about the importance of truth in building relationships. Not.",
+                "document_type": "multimedia",
+                "word_count": "37",
+                "type_of_material": "Video",
+                "source": "Internet Video Archive",
+                "headline": {
+                    "main": "Clifford"
+                }
+            }
+        ]
+    }
+}
